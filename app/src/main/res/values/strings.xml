@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter your Email</string>
+    <string name="enter_pass">Enter Your password</string>
+    <string name="already_registered">Already registered ? Sign in</string>
+    <string name="login">Login</string>
+    <string name="create_account">Or Sign UP now !</string>
+    <string name="profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">Enter your name</string>
+    <string name="save">Save</string>
+    <string name="add_post">Add post</string>
+    <string name="enter_caption">Describe ur post :)</string>
+</resources>
